@@ -1,4 +1,4 @@
-# Recognizing handwritten digits using Mnist Dataset
+# Recognizing handwritten digits using Mnist Dataset 
 
 ![image](https://github.com/Kmohamedalie/MNIST/assets/63104472/d7ae93cc-12f1-486d-a5fd-0348265b16c3)
 
