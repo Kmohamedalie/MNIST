@@ -5,7 +5,7 @@
 
 **Dataset:** [Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
-**Notebook:** [Link]()
+**Notebook:** [Link](https://github.com/Kmohamedalie/MNIST/blob/master/Notebook/Mnist%20-%20SnapML(Bagging).ipynb)
 
 
 ## MNIST
