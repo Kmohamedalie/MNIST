@@ -7,6 +7,7 @@
 
 **Notebook:** [Link](https://github.com/Kmohamedalie/MNIST/blob/master/Notebook/Mnist%20-%20SnapML(Bagging).ipynb)
 
+**Metrics achieved:** F1-score, Precision, Accuracy 97.06%
 
 ## MNIST
 Introduced by LeCun et al. in Gradient-based learning applied to document recognition
