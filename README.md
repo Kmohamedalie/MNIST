@@ -5,7 +5,7 @@
 
 **Dataset:** [Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
-**Notebook:** [Link](https://github.com/Kmohamedalie/MNIST/blob/master/Notebook/Mnist%20-%20SnapML(Bagging).ipynb)
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/MNIST/blob/master/Notebook/Mnist%20-%20SnapML(Bagging).ipynb)
 
 **Metrics achieved:** F1-score, Precision, Accuracy 97.06%
 
