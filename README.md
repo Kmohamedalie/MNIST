@@ -1,13 +1,26 @@
 # Recognizing handwritten digits using Mnist Dataset 
 
-![image](https://github.com/Kmohamedalie/MNIST/assets/63104472/d7ae93cc-12f1-486d-a5fd-0348265b16c3)
+<!-- ![image](https://github.com/Kmohamedalie/MNIST/assets/63104472/d7ae93cc-12f1-486d-a5fd-0348265b16c3) -->
+
+
+https://github.com/Kmohamedalie/MNIST/assets/63104472/e223078c-4f7f-4d6d-ba54-29246968f1bf
+
+
+**Source:** [Yann LeCun - Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
+
+
 
 
 **Dataset:** [Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
 **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/MNIST/blob/master/Notebook/Mnist%20-%20SnapML(Bagging).ipynb)
 
-**Metrics achieved:** F1-score, Precision, Accuracy 97.06%
+
+**Metrics:**
+
+| Algorithm | Precision | Recall | F1-score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| Random Forest(SnapML)   | 97.06%    |  97.06% | 97.06%  | 97.06%   |
 
 ## MNIST
 Introduced by LeCun et al. in Gradient-based learning applied to document recognition
